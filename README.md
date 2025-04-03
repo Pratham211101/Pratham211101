@@ -16,7 +16,7 @@
 <a href="https://twitter.com/pratham00565211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham00565211" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-goswami-4a2a83228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-goswami-4a2a83228" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pogowizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pogowizard" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gfg(<goswamipraths9ct>/profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg(<goswamipraths9ct>/profile)" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/goswamipraths9ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg(<goswamipraths9ct>/profile)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
