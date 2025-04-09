@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react-rust-mu.vercel.app/](https://portfolio-react-rust-mu.vercel.app/)
 
-- 📝 I regularly write articles on ["blogapp.link"]("blogapp.link")
+- 📝 I regularly write articles on ["blogapp.link"]("https://the-blog-hub-tau.vercel.app/")
 
 - 📫 How to reach me **goswmamipratham21112001@gmail.com**
 
