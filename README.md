@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react-rust-mu.vercel.app/](https://portfolio-react-rust-mu.vercel.app/)
 
-- 📝 I regularly write articles on [https://the-blog-hub-tau.vercel.app/]("https://the-blog-hub-tau.vercel.app/")
+- 📝 I regularly write articles on [https://the-blog-hub-tau.vercel.app/](https://the-blog-hub-tau.vercel.app/)
 
-- 📫 How to reach me **goswmamipratham21112001@gmail.com**
+- 📫 How to reach me **goswamipratham21112001@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1dotR3KoeN5kf9nRZOwQDDMQjAUsZZC7v/edit?usp=sharing&ouid=107638286078088541740&rtpof=true&sd=true](https://docs.google.com/document/d/1dotR3KoeN5kf9nRZOwQDDMQjAUsZZC7v/edit?usp=sharing&ouid=107638286078088541740&rtpof=true&sd=true)
 
