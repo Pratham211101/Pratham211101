@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **goswamipratham21112001@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dotR3KoeN5kf9nRZOwQDDMQjAUsZZC7v/edit?usp=sharing&ouid=107638286078088541740&rtpof=true&sd=true](https://docs.google.com/document/d/1dotR3KoeN5kf9nRZOwQDDMQjAUsZZC7v/edit?usp=sharing&ouid=107638286078088541740&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1dotR3KoeN5kf9nRZOwQDDMQjAUsZZC7v/edit?usp=sharing&ouid=107638286078088541740&rtpof=true&sd=true](https://drive.google.com/file/d/1QosxFewr6sMWr-Bh1r_VelGSiaWKgDQN/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
